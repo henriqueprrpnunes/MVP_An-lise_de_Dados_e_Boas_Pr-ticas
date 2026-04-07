@@ -58,29 +58,23 @@ Durante a análise, foram realizadas:
 Foram consideradas as seguintes etapas:
 
 - Tratamento de variáveis categóricas (encoding)
-- Avaliação da necessidade de:
--- Transformação logarítmica (price, area)
--- Padronização (StandardScaler)
--- Normalização (MinMaxScaler)
+- Avaliação da necessidade de: Transformação logarítmica (price, area); Padronização (StandardScaler); Normalização (MinMaxScaler)
 - Preparação dos dados para algoritmos de Machine Learning
 
 ## Próximos Passos
 
-Construção de modelos preditivos
-Teste de algoritmos como:
-Regressão Linear
-Random Forest
-XGBoost
-Avaliação de desempenho com métricas apropriadas
+- Construção de modelos preditivos
+- Teste de algoritmos como: Regressão Linear; Random Forest; XGBoost
+- Avaliação de desempenho com métricas apropriadas
 
 ## Tecnologias Utilizadas
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Scikit-learn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
 
 ## Autor
 
