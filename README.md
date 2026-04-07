@@ -42,12 +42,12 @@ O dataset contém 545 registros e 13 variáveis:
 
 Durante a análise, foram realizadas:
 
-Estatísticas descritivas (média, mediana, desvio padrão)
-Análise de distribuição das variáveis
-Identificação de assimetria (principalmente em price e area)
-Detecção de outliers
-Avaliação de relações entre variáveis
-Principais insights:
+- Estatísticas descritivas (média, mediana, desvio padrão)
+- Análise de distribuição das variáveis
+- Identificação de assimetria (principalmente em price e area)
+- Detecção de outliers
+- Avaliação de relações entre variáveis
+- Principais insights:
 price e area apresentam distribuição assimétrica à direita
 Variáveis possuem escalas muito diferentes
 Existem valores extremos que podem impactar modelos futuros
