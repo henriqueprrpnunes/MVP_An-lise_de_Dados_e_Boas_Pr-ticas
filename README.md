@@ -47,11 +47,11 @@ Durante a análise, foram realizadas:
 - Identificação de assimetria (principalmente em price e area)
 - Detecção de outliers
 - Avaliação de relações entre variáveis
-- Principais insights:
--- price e area apresentam distribuição assimétrica à direita
--- Variáveis possuem escalas muito diferentes
--- Existem valores extremos que podem impactar modelos futuros
--- Variáveis categóricas têm potencial explicativo relevante
+### Principais insights:
+- price e area apresentam distribuição assimétrica à direita
+- Variáveis possuem escalas muito diferentes
+- Existem valores extremos que podem impactar modelos futuros
+- Variáveis categóricas têm potencial explicativo relevante
 
 ## Pré-processamento dos Dados
 
